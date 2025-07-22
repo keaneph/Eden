@@ -1,0 +1,14 @@
+{
+  "name": "eden",
+  "version": "1.0.0",
+  "description": "Retro desktop environment in the browser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keaneph/Eden.git"
+  },
+  "license": "MIT",
+  "author": "keaneph",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
